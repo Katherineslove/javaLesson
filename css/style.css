@@ -19,6 +19,19 @@
     background-color: #8e44ad;
 }
 
-#box4 {
-    display: none;
+.orange {
+    background-color: #e15f41;
+}
+
+.deepRose {
+    background-color: #c44569;
+}
+
+.lightBlue {
+    background-color: #63cdda;
+}
+
+.boxLarge {
+    width: 500px;
+    height: 500px;
 }
